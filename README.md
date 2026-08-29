@@ -1,3 +1,13 @@
-# My First GitHub Project
+# Git Practice
 
-I am learning Git and GitHub
+This repository was created to practice Git and GitHub.
+
+# What I practiced
+- Creating a repository
+- Cloning a repository
+- Tracking changes with Git
+- Using git add
+- Creating commits with git commit
+- Uploading changes with git push
+
+This is my first practice with Git and GitHub
