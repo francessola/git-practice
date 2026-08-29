@@ -10,4 +10,4 @@ This repository was created to practice Git and GitHub.
 - Creating commits with git commit
 - Uploading changes with git push
 
-This is my first practice with Git and GitHub
+This is my first hands-on practice with Git and GitHub
